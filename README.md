@@ -1,6 +1,6 @@
 #  Data parsing exercise
 
-The code in this repository was writen the next instructions:
+Code in this repository was writen with the next instructions:
 
 The software Ariba is one piece of software that can be used to predict the presence of loci responsible for antimicrobial resistance in bacterial genomes.
 After running the software on whole genome data from individual isolates the summary command can be used to summarize the presence and absence of loci across all the isolates. The output is described on this wiki page
